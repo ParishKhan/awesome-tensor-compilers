@@ -224,6 +224,7 @@ A list of awesome compiler projects and papers for tensor computation and deep l
 ## Tutorials
 - [Machine Learning Compilation](https://mlc.ai/summer22/)
 - [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Contribute
 We encourage all contributions to this repository. Open an [issue](https://github.com/merrymercy/awesome-tensor-compilers/issues) or send a [pull request](https://github.com/merrymercy/awesome-tensor-compilers/pulls).
